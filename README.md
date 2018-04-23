@@ -1,0 +1,2 @@
+# BCI-Research
+This repo contains research papers in the field of Brain Computer Interfacing (BCI in short). These two papers were presented in International Conferences in Thailand and Singapore in the years 2015 and 2016 respectively. This research project is sponsored by Tamil Nadu State Council of Science and Technology (TNSCST). I am the Co-Investigator of this project worth 1.6 Lakhs of Rupees.
